@@ -7,4 +7,4 @@ OP AUTHORS:
 - ops by cables user stephan (https://cables.gl/user/stephan)
 - ops by cables user simod (https://cables.gl/user/simod)
 
-cables is build on open source software and community contributions, check https://cables.gl/support
+cables is built on open source software and community contributions, check https://cables.gl/support

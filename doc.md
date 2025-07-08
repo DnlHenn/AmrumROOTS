@@ -1,6 +1,6 @@
 ## Patch Variables:
 
-* __currentTime__ ```Number```
+* __currentTime__ ```Number``` (default Value: `0`)
 * __index__ ```Number``` (default Value: `1`)
 * __mapOpen__ ```Number``` (default Value: `1`)
 
