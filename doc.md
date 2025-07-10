@@ -3,6 +3,9 @@
 * __currentTime__ ```Number``` (default Value: `0`)
 * __index__ ```Number``` (default Value: `1`)
 * __initialRadius__ ```Number``` (default Value: `26`)
+
+  Fly In at Initial Loading
+
 * __mapOpen__ ```Number``` (default Value: `1`)
 
   Initial Map State
@@ -15,4 +18,6 @@
 * __Positions__ ```Array```
 * __RotY__ ```Number```
 * __songLength__ ```Number```
+* __tabbarGate__ ```Number``` (default Value: `1`)
+* __tabbarPosition__ ```Number``` (default Value: `200`)
 
