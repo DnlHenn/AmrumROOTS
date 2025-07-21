@@ -20,7 +20,8 @@
 
 * __playAudio__ ```Number``` (default Value: `1`)
 * __Positions__ ```Array```
-* __RotY__ ```Number```
+* __posX__ ```Number```
+* __posZ__ ```Number```
 * __songLength__ ```Number```
 * __tabbarGate__ ```Number``` (default Value: `1`)
 * __tabbarPosition__ ```Number``` (default Value: `200`)
